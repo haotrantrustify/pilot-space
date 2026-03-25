@@ -63,6 +63,8 @@ dependencies = [
     "markdown-it-py>=3.0.0",
     # User-agent parsing (session service)
     "ua-parser>=0.18.0",
+    "litellm==1.82.6",
+    "langfuse>=3.0.0",
 ]
 
 [project.optional-dependencies]
